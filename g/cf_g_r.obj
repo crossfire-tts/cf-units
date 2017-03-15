@@ -1,6 +1,6 @@
 # Blender v2.78 (sub 0) OBJ File: 'cf_base.blend'
 # www.blender.org
-mtllib cf_base4.mtl
+mtllib cf_g_r.mtl
 o i_frame_Cube.001
 v 1.800000 0.000000 1.000000
 v 1.800000 0.200000 1.000000
